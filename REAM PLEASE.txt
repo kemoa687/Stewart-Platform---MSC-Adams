@@ -1,0 +1,1 @@
+you will find the model in the folder of adams 12 you only will open the data base from each file with the name of its motion.
